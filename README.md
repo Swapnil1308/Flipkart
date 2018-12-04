@@ -1,6 +1,6 @@
-## Flipkart Testing
+# Flipkart Testing
 
-* [Prerequisites](#Prerequisites)
+[Prerequisites](##Prerequisites)
 
 * Selenium IDE 2.9 version or higher 
 * Eclipse IDE 
