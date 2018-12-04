@@ -1,4 +1,5 @@
 # Flipkart Testing
-* [Prerequisites](#Prerequisites)
-[Selenium IDE](Selenium IDE)
+[Prerequisites](#Prerequisites)
+
+* [Selenium IDE](#Selenium IDE)
 
