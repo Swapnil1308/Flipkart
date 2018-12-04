@@ -1,6 +1,6 @@
 # Flipkart Testing
 
-[Prerequisites](##Prerequisites)
+##Prerequisites
 
 * Selenium IDE 2.9 version or higher 
 * Eclipse IDE 
@@ -13,3 +13,14 @@
   Restart your browser.
   Click on Tools menu list displayed at the top bar. Selenium IDE will be displayed in the list.
 * Go to https://www.eclipse.org/downloads/ and download Eclipse IDE accordingly. Run the setup file and select Eclipse IDE for Java EE. 
+
+## Run the Test
+* Launch Firefox and Selenium IDE.
+Type the value for our Base URL for example- http://www.flipkart.com
+Toggle the Record button on to start recording. 
+Perform your task
+Toggle the Record button off to stop recording.
+Now save the test, Go to File menu, select save Test case.
+Go back to Selenium IDE and click the Playback button to execute the whole script. Selenium IDE should be able to replicate everything.
+
+##Export the test
