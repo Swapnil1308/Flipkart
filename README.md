@@ -27,7 +27,8 @@ Go back to Selenium IDE and click the Playback button to execute the whole scrip
 ## Export the test
  Go to File, select Export Test Case as eg. Java/Junit/Webdriver
  Save the file. 
-*We can export the test case in Python, Ruby, C# as well.
+ 
+*We can export the test case in Python, Ruby, C# as well*
 
 ## Commands in Selenium
  * Right-click on any blank space within the page, this will bring up the Selenium IDE context menu.
