@@ -3,6 +3,7 @@
 ## Prerequisites
 
 * Selenium IDE 2.9 version or higher 
+* Mozilla Firefox or Chrome.
 * Eclipse IDE 
 * Java
 
@@ -26,6 +27,7 @@ Go back to Selenium IDE and click the Playback button to execute the whole scrip
 ## Export the test
  Go to File, select Export Test Case as eg. Java/Junit/Webdriver
  Save the file. 
+*We can export the test case in Python, Ruby, C# as well.
 
 ## Commands in Selenium
  * Right-click on any blank space within the page, this will bring up the Selenium IDE context menu.
@@ -34,4 +36,5 @@ Go back to Selenium IDE and click the Playback button to execute the whole scrip
 * Parameters are not required all the time. It depends on how many the command will need.
 Add the commands during testing to run the test perfectly if needed or to insert any value or paramter. 
 
-#We can run the test case exported from Selenium in eclipse as well and modify accordingly if needed.
+*We can run the test case exported from Selenium in eclipse as well and modify accordingly if needed.*
+
