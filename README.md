@@ -17,12 +17,12 @@
 
 ## Run the Test
 * Launch Firefox and Selenium IDE.
-Type the value for our Base URL for example- http://www.flipkart.com
-Toggle the Record button on to start recording. 
-Perform your task.
-Toggle the Record button off to stop recording.
-Now save the test, Go to File menu, select save Test case.
-Go back to Selenium IDE and click the Playback button to execute the whole script. Selenium IDE should be able to replicate everything.
+* Type the value for our Base URL for example- http://www.flipkart.com
+* Toggle the Record button on to start recording. 
+* Perform your task.
+* Toggle the Record button off to stop recording.
+* Save the test, Go to File menu, select save Test case.
+* Go back to Selenium IDE and click the Playback button to execute the whole script. Selenium IDE should be able to replicate everything.
 
 ## Export the test
  Go to File, select Export Test Case as eg. Java/Junit/Webdriver
