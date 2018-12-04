@@ -17,8 +17,10 @@ public class Search {
 
   @Before
   public void setUp() throws Exception {
+    //load a new browser window
     driver = new FirefoxDriver();
     baseUrl = "https://www.flipkart.com/";
+    //Increase the implicit wait timeout as it will have an adverse effect on test run time, especially when used with slower location.
     driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
   }
 
